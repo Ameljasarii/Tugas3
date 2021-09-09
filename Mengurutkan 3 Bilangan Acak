@@ -1,0 +1,8 @@
+Latihan 3
+
+798
+- Membandingkan dua angka pertama yaitu 7 dan 9
+- Karena  7 lebih kecil dari 9 ,maka urutan kedua bilangan ini tidak akan ditukar
+- Lalu algoritma akan maju ke pasangan kedua yaitu 9 dan 8
+- Karena 9 lebih besar dari 8 ,maka posisi mereka berdua akan ditukar
+- Maka hasil akhirnya 789
